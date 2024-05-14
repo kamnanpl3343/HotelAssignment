@@ -1,0 +1,74 @@
+﻿@model List<HotelAssignment.Models.Domain.HotelData>
+;
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card my-4">
+                <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                    <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                        <h6 class="text-white text-capitalize ps-3">Hotel List</h6>
+                    </div>
+                </div>
+                <div class="card-body px-0 pb-2">
+                    <div class="table-responsive p-0">
+                        <table class="table align-items-center mb-0">
+                            <thead>
+                                <tr>
+                                <th class="text-uppercase text-dark text-2xl font-weight-bolder font opacity-7">S.N</th>
+
+                                <th class="text-uppercase text-dark text-2xl font-weight-bolder font opacity-7">Name</th>
+                                <th class="text-uppercase text-dark text-2xl font-weight-bolder opacity-7 ps-2">Email</th>
+                                <th class="text-uppercase text-dark text-2xl font-weight-bolder opacity-7 ps-2">Address</th>
+                                <th class="text-uppercase text-dark text-2xl font-weight-bolder opacity-7 ps-2">Image</th>
+                                <th class="text-uppercase text-dark text-2xl font-weight-bolder opacity-7 ps-2">Action</th>
+
+                            </tr>
+
+                            </thead>
+                            <tbody>
+                                @foreach (var data in Model)
+                                {
+                                var imagePath = "../image/" + data.Path;
+                                <tr>
+                                    <td class="text-xl text-dark mb-0">
+                                        @data.Id
+                                    </td>
+                                    <td class="text-xl text-dark mb-0">
+                                        <div class="d-flex flex-column justify-content-center">
+                                            <h6 class="mb-0 text-sm"><a asp-controller="Hotel" asp-action="ProfileDetail" asp-route-id="@data.Id" >@data.Name</a></h6>
+                                           
+                                        </div>
+                                    </td>
+                                  
+                                    <td>
+                                        <p class="text-xl text-dark mb-0">@data.Address</p>
+                                    </td>
+                                    <td>
+                                        <p class="text-xl text-dark mb-0">@data.Email</p>
+                                    </td>
+                                    <td>
+
+                                        <img src="../image/@Html.DisplayFor(modelItem => data.Path)" height="100px;" width="100px;" />
+                                    </td>
+                                    <td>
+
+                                        <a class="text-danger font-weight-bold text-xs" asp-controller="Hotel" asp-action="Delete" asp-route-id="@data.Id">
+                                            <i class="material-icons text-sm me-2">delete</i>
+                                            Delete
+                                        </a>
+
+                                        <a class="text-secondary font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit Form" asp-controller="Hotel" asp-action="Update" asp-route-id="@data.Id">
+                                            <i class="material-icons text-sm me-2">edit</i>
+                                            Edit
+                                        </a>
+                                    </td>
+                                    </tr>
+                                    }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+

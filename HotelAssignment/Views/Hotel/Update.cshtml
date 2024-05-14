@@ -1,0 +1,75 @@
+﻿@model HotelAssignment.Models.HotelModel
+@{
+}
+<div class="container my-auto">
+    <div class="row my-5">
+
+        <div class="col-lg-5 col-md-8 col-12 mx-auto">
+            <div class="card z-index-0 fadeIn3 fadeInBottom">
+                <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                    <div class="bg-gradient-primary shadow-primary border-radius-lg py-3 pe-1">
+
+                        <h4 class="text-white font-weight-bolder text-center mt-2 mb-0">Add</h4>
+
+                    </div>
+                </div>
+                <div class="card-body">
+                    <form method="post" role="form" asp-action="Update" enctype="multipart/form-data">
+                        @Html.ValidationSummary(true)
+                        <input type="hidden" asp-for="Id" />
+                        <div class="input-group input-group-outline my-3 ">
+                            <label class="form-label"></label>
+                            <input type="text" asp-for="Name" placeholder="Name" class="form-control" required>
+                            <br />
+                            <span>@Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })</span>
+
+                        </div>
+
+
+                        <div class="input-group input-group-outline my-3 ">
+                            <label class="form-label"></label>
+                            <input type="email" asp-for="Email" placeholder="Email" class="form-control" required>
+                            <br />
+                            <span>@Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })</span>
+
+                        </div>
+
+
+
+
+                        <div class="input-group input-group-outline my-3 ">
+                            <label class="form-label"></label>
+                            <input type="text" asp-for="Address" class="form-control" placeholder="Address" required>
+                            <br />
+                            <span>@Html.ValidationMessageFor(m => m.Address, "", new { @class = "text-danger" })</span>
+
+                        </div>
+                        <div class="input-group input-group-outline my-3 row">
+                            <div class="col-9">
+                                <label class="form-label"></label>
+                                <input type="file" asp-for="ImagePath" class="form-control" id="chooseImg" required>
+                            </div>
+                            <div class="col-3">
+                                <img src="/image/@Model.Path" id="imgPreview" style="width:70px; height:70px; border:1px solid red; border-radius:10px; padding:5px;" alt="Laptop image" />
+                            </div>
+                            <br />
+                            <span>@Html.ValidationMessageFor(m => m.ImagePath, "", new { @class = "text-danger" })</span>
+
+                        </div>
+
+                        <button type="submit" class="btn btn-lg bg-gradient-secondary btn-lg w-100 mt-4 mb-0">Submit</button>
+
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script src="~/js/JavaScript.js">
+    </script>
+};
+
+

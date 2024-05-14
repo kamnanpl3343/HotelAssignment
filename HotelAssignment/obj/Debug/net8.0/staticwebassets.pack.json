@@ -1,0 +1,549 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\UITS\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HotelAssignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HotelAssignment.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\plugins\\countup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\countup.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\assets\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\css\\sweetalert.css",
+      "PackagePath": "staticwebassets\\css\\sweetalert.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\css\\toastr.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\image\\006fd90b-015a-44c2-982e-6abca7d08625_photo.jpg",
+      "PackagePath": "staticwebassets\\image\\006fd90b-015a-44c2-982e-6abca7d08625_photo.jpg"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\image\\303b938b-94cf-438a-a6c0-c82c6d25cd6b_marksheet.jpg",
+      "PackagePath": "staticwebassets\\image\\303b938b-94cf-438a-a6c0-c82c6d25cd6b_marksheet.jpg"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\image\\9a68adfc-b830-41f4-b933-3a7fe6499bce_marksheet.jpg",
+      "PackagePath": "staticwebassets\\image\\9a68adfc-b830-41f4-b933-3a7fe6499bce_marksheet.jpg"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\image\\demo.jpg",
+      "PackagePath": "staticwebassets\\image\\demo.jpg"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\image\\e4d1937d-a4f8-465d-a844-dcea9106a255_photo.jpg",
+      "PackagePath": "staticwebassets\\image\\e4d1937d-a4f8-465d-a844-dcea9106a255_photo.jpg"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\image\\f4b971eb-5946-4f63-ae8c-ac059c2414d4_photo.jpg",
+      "PackagePath": "staticwebassets\\image\\f4b971eb-5946-4f63-ae8c-ac059c2414d4_photo.jpg"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\js\\JavaScript.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\.Net\\HotelAssignment\\HotelAssignment\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HotelAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HotelAssignment.props",
+      "PackagePath": "build\\HotelAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelAssignment.props",
+      "PackagePath": "buildMultiTargeting\\HotelAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HotelAssignment.props",
+      "PackagePath": "buildTransitive\\HotelAssignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,55 @@
+﻿@model HotelAssignment.Models.HotelModel;
+@{
+}
+
+<br />
+<br />
+<div class="card card-body mx-3 mx-md-4 mt-n6">
+
+    <div class="row">
+        <div class="row">
+            <div class="col-8" style="border-bottom: 1px solid #f0f2f5;">
+                <div class="card card-plain h-100">
+                    <div class="card-header pb-0 p-3">
+                        <div class="row">
+                            <div class="col-md-8 d-flex align-items-center">
+                                <h6 class="mb-0 text-2xl">Key Informations</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <ul class="list-group">
+                            <li class="list-group-item border-0 ps-0 pt-0 text-xl"><strong class="text-dark">S.N:</strong> &nbsp; @Model?.Id</li>
+                            <li class="list-group-item border-0 ps-0 text-xl"><strong class="text-dark">Hotel Name:</strong> &nbsp;  @Model?.Name</li>
+                            <li class="list-group-item border-0 ps-0 text-xl"><strong class="text-dark">Email:</strong> &nbsp; @Model?.Email</li>
+                            <li class="list-group-item border-0 ps-0 text-xl"><strong class="text-dark">Address:</strong> &nbsp; @Model?.Address</li>
+
+                           </ul>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="col-4" style="border-bottom: 1px solid #f0f2f5;">
+                <div class="card card-plain h-100 ">
+                    <div class="card-body d-flex justify-content-center align-items-center">
+                        <ul class="list-group">
+                            <img src="/image/@Model?.Path" id="imgPreview" style="width:170px; height:170px; border:1px solid red; border-radius:10px; padding:5px;" alt="Laptop image" />
+                        </ul>
+                    </div>
+                </div>
+            </div>
+                
+         
+                <hr />
+            </div>
+
+
+        <a class="btn btn-lg bg-gradient-secondary btn-lg w-100 mt-4 mb-0" asp-controller="Hotel" asp-action="Index">Back To List</a>
+
+
+           
+        </div>
+   </div>
+</div>
+
+
